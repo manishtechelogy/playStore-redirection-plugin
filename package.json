@@ -1,0 +1,34 @@
+
+
+{
+  "name": "playStore-redirection-plugin",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for access to Google Play and Apple Store within your app",
+  "cordova": {
+    "id": "playStore-redirection-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xmartlabs/cordova-plugin-market"
+  },
+  "keywords": [
+    "cordova",
+    "market",
+    "store",
+    "itunes",
+    "play",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Xmartlabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xmartlabs/cordova-plugin-market/issues"
+  },
+  "homepage": "https://github.com/xmartlabs/cordova-plugin-market#readme"
+}
