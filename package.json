@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xmartlabs/cordova-plugin-market"
+    "url": "https://github.com/manishtechelogy/playStore-redirection-plugin"
   },
   "keywords": [
     "cordova",
@@ -28,7 +28,7 @@
   "author": "Xmartlabs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xmartlabs/cordova-plugin-market/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/xmartlabs/cordova-plugin-market#readme"
+  "homepage": ""
 }
